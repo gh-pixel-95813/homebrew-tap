@@ -1,6 +1,6 @@
 cask "macmate" do
   version "0.3.0"
-  sha256 "735f948d1644b046d2feed9828b926f7ff8cdb180f1976d051d01ba6b280f3f9"
+  sha256 "188f7b1e134a8953a32e5c6e34239978f4e2a367d6781fd18a308dd60030a45d"
 
   url "https://github.com/gh-pixel-95813/MacMate/releases/download/v#{version}/MacMate_#{version}_aarch64.dmg"
   name "MacMate"

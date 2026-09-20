@@ -1,6 +1,6 @@
 cask "macmate-x64" do
   version "0.3.0"
-  sha256 "55efb2c04f0726a331b8765890fb45b6779382083d0ffea1e2247e18a8b201e5"
+  sha256 "db91e69efa4bfec55b7215658cc17ccd7d215ab9d1c83f62946827f0658563ff"
 
   url "https://github.com/gh-pixel-95813/MacMate/releases/download/v#{version}/MacMate_#{version}_x64.dmg"
   name "MacMate (Intel)"
